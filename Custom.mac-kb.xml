@@ -69,7 +69,6 @@
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.MoveBlockDown" shortcut="Meta+Shift+Down" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.MoveBlockUp" shortcut="Meta+Shift+Up" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.SelectionMoveEnd" shortcut="Shift+End" />
-    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.RecenterEditor" shortcut="Meta+M" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.ShowParameterCompletionWindow" shortcut="Meta+P" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.ToggleBlockSelectionMode" shortcut="Alt+Shift+Insert" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.DeleteLine" shortcut="Shift+Delete" />
@@ -97,7 +96,6 @@
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.InsertNewLineAtEnd" shortcut="Shift+Return" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.InsertNewLinePreserveCaretPosition" shortcut="Meta+Return" />
     <binding command="MonoDevelop.Ide.Commands.FileCommands.Save" shortcut="" />
-    <binding command="MonoDevelop.Ide.Commands.WindowCommands.SwitchNextDocument" shortcut="Meta+E" />
     <binding command="MonoDevelop.Ide.Commands.WindowCommands.SwitchPreviousDocument" shortcut="Meta+Alt+E" />
     <binding command="MonoDevelop.Ide.Commands.WindowCommands.NextWindow" shortcut="Alt+Right" />
     <binding command="MonoDevelop.Ide.Commands.WindowCommands.PrevWindow" shortcut="Alt+Left" />
@@ -122,6 +120,6 @@
     <binding command="MonoDevelop.CSharp.Highlighting.MoveToUsagesCommand.PrevUsage" shortcut="" />
     <binding command="MonoDevelop.CSharp.Highlighting.MoveToUsagesCommand.NextUsage" shortcut="" />
     <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateBack" shortcut="Alt+Meta+Left" />
-    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateForward" shortcut="Alt+Meta+Right" />
+    <binding command="MonoDevelop.Ide.Commands.ViewCommands.PreviousNotebook" shortcut="Control+Shift+Z" />
   </scheme>
 </schemes>
